@@ -34,6 +34,8 @@ if(isset($_POST["operator"])){
    $num6 = $_POST["num16"];
    $num7 = $_POST["num17"];
    $num8 = $_POST["num18"];
+    echo $num8;
+     echo $num7;
 
    $matrix1 = array(
        array($num1,$num2),
